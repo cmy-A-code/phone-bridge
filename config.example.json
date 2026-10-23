@@ -1,0 +1,17 @@
+{
+  "host": "127.0.0.1",
+  "port": 8780,
+  "token": "",
+  "conv_name": "phone-task",
+  "conv_id": "",
+  "inject_mode": "cdp",
+  "inject_script": "inject.ps1",
+  "inject_timeout_s": 150,
+  "reply_timeout_s": 900,
+  "public_base": "",
+  "media_ttl_days": 14,
+  "dsh_node": "",
+  "dsh_bin": "",
+  "dsh_home": "",
+  "dsh_cwd": ""
+}
