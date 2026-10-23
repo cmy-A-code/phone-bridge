@@ -1,0 +1,9 @@
+# runtime state
+config.json
+tasks/
+media/
+dsh-sessions.json
+undelivered.json
+*.log
+__pycache__/
+*.pyc
